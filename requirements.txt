@@ -1,5 +1,5 @@
-numpy-->latest version
-streamlit-->latest version
-streamlit_option_menu-->latest version
-pickle-->latest version
-anaconda navigator-->latest version
+numpy
+streamlit
+streamlit_option_menu
+pickle
+scikit-learn
